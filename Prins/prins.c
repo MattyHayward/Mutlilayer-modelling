@@ -1,4 +1,7 @@
 /**
+
+http://basilisk.fr/sandbox/Hayward/Prins/prins.c
+
 # Dam-break Wave Generation
 
 [Prins, 1958](#prins1958) conducted a dam break experiment to investigate the

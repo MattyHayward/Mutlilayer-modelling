@@ -1,4 +1,7 @@
 /**
+
+http://basilisk.fr/sandbox/Hayward/Prins/prins_ns.c
+
 # Dam-break Wave Generation (Navier-Stokes)
 
 This is the Navier-Stokes VOF case of the [Prins, 1958](#references) dam-break experiment. See the [multilayer case](prins.c) for details.
